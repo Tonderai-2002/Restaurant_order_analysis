@@ -1,4 +1,4 @@
-# 🍽️ Restaurant Sales Insights Dashboard
+# 🍽️ Restaurant order analysis with SQL
 
 An end-to-end SQL-based data exploration project for a fictional restaurant business. This analysis helps uncover customer behavior, optimize menu offerings, and monitor business performance using MySQL.
 
